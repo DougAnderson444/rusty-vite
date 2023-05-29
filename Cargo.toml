@@ -1,0 +1,5 @@
+[workspace]
+members = ["host"]
+
+# Specifiy the default target to build when no target is specified for plugins memebr
+default-members = ["host"]
